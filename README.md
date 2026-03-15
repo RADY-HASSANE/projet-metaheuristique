@@ -36,7 +36,7 @@ Les algorithmes ont été testés sur 14 instances de tailles croissantes. L'alg
 * **Gain de Qualité :** Une réduction de la distance totale allant de **5% à plus de 16%** par rapport à la méthode gloutonne.
 * **Compromis Temps/Qualité :** Bien que le PSO hybride soit plus coûteux en temps de calcul (en raison des itérations de la recherche locale 2-opt), ce surcoût est largement justifié par les gains substantiels obtenus sur la distance finale.
 
-*(Pour voir les tableaux statistiques complets et les courbes de convergence, n'hésitez pas à consulter le fichier PDF `Rady_hassane.pdf`).*
+*(Pour voir les tableaux statistiques complets et les courbes de convergence, n'hésitez pas à consulter le fichier PDF `rapport.pdf`).*
 
 ---
 
