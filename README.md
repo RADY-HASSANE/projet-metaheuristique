@@ -24,7 +24,7 @@ L'objectif principal est de concevoir, implémenter et évaluer une métaheurist
 ## 📂 Structure du Dépôt
 
 - `projet_metaheuristique.ipynb` : Le notebook Jupyter contenant l'intégralité du code (chargement des données, algorithmes, affichage des cartes et des graphiques de convergence).
-- `Rady_hassane.pdf` : Le rapport de projet détaillé (formulation mathématique, méthodologie, analyse des résultats et conclusion).
+- `rapport.pdf` : Le rapport de projet détaillé (formulation mathématique, méthodologie, analyse des résultats et conclusion).
 - `[Dossier des instances]` : Contient les 14 fichiers d'instances de test issues de la bibliothèque **TSPLIB** (de 48 à 2152 villes, ex: `att48`, `berlin52`, `u2152`).
 
 ---
